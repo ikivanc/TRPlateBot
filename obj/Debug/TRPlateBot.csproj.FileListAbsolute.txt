@@ -1,0 +1,39 @@
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Bot Application1.dll.config
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Bot Application1.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Bot Application1.pdb
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Autofac.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Chronic.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.Bot.Builder.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.Bot.Connector.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Newtonsoft.Json.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\System.Net.Http.Formatting.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\System.Web.Http.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\System.Web.Http.WebHost.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Autofac.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.Bot.Builder.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.Bot.Connector.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\Newtonsoft.Json.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\System.Net.Http.Formatting.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\System.Web.Http.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\System.Web.Http.WebHost.xml
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\obj\Debug\TRPlateBot.csprojResolveAssemblyReference.cache
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\obj\Debug\Bot Application1.dll
+c:\users\ikivanc\documents\visual studio 2015\Projects\TRPlateBot\TRPlateBot\obj\Debug\Bot Application1.pdb
