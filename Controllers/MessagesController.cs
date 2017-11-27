@@ -19,30 +19,32 @@ namespace TRPlateBot
         /// </summary>
         public async Task<HttpResponseMessage> Post([FromBody]Activity activity)
         {
+            //Bu kod parçası sadece komut-cevap olarak çalışır
             if (activity.Type == ActivityTypes.Message)
             {
-                ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));               
+                ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
                 City cm = new City();
 
+                //Girilen içerik sadece sayı ise Plaka kodu olduğunu anlayarak, şehir adını arıyor.
                 if (activity.Text.All(char.IsDigit))
                 {
                     string cityName = cm.getCityNamebyPlateNumber(Convert.ToInt32(activity.Text));
 
-                    //Activity reply = activity.CreateReply($"You sent {activity.Text} plate number which is {cityName} city in Turkey");
-                    Activity reply = activity.CreateReply($"Sorguladığınız {activity.Text} plaka kodu {cityName} iline aittir.");
+                    string message = $"Sorguladığınız {activity.Text} plaka kodu {cityName} iline aittir.";
+                    if (cityName == null) message = $"Sorguladığınız {activity.Text} sorgu kayıtlarımızda bulunamadı";
+                    Activity reply = activity.CreateReply(message);
                     await connector.Conversations.ReplyToActivityAsync(reply);
-
                 }
                 else
                 {
+                    //Girilen içerik sadece yazı ise Şehir adı olduğunu varsayarak, plaka kodunu arıyor.
                     int pNumber = cm.getPlateNumberbyCity(activity.Text);
 
-                    //Activity reply = activity.CreateReply($"You sent {activity.Text} city name which is {pNumber} as its plate number in Turkey");
-                    Activity reply = activity.CreateReply($"Sorguladığınız {activity.Text} ilinin plaka kodu: {pNumber}");
+                    string message = $"Sorguladığınız {activity.Text}  ilinin plaka kodu: {pNumber}";
+                    if (pNumber == 0) message = $"Sorguladığınız {activity.Text} sorgu kayıtlarımızda  bulunamadı";
+                    Activity reply = activity.CreateReply(message);
                     await connector.Conversations.ReplyToActivityAsync(reply);
                 }
-
-
             }
             else
             {
